@@ -5,6 +5,8 @@
 */
 #include <iostream>
 
+
+//DOCUMENTE LA FUNCION
 // Declaración de la función
 bool esPar(int numero);
 using namespace std;
