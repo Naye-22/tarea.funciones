@@ -6,6 +6,7 @@
 #include <iostream>
 using namespace std;
 
+//DOCUMENTE LA FUNCION
 int calcularCuadrado(int entero);
 
 int main() {
