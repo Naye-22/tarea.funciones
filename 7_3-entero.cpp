@@ -9,7 +9,6 @@
 #include <ctime>   // Para time()
 using namespace std;
 
-
 //DOCUMENTE LA FUNCION
 int SumaNumAleatorios(int cantidad, int limiteInferior, int limiteSuperior);
 
