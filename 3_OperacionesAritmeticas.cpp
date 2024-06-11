@@ -8,6 +8,8 @@
 using namespace std;
 
 
+//DOCUMENTE LA FUNCION
+
 double sumar(double a, double b);
 double restar(double a, double b);
 double multiplicar(double a, double b);
