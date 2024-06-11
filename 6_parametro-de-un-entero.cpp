@@ -7,6 +7,8 @@
 #include <cmath> // Para usar la función log10
 using namespace std; 
 
+
+//DOCUMENTE LA FUNCION
 int contarCifras(int numero);
 
 int main() {
