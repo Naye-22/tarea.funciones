@@ -1,0 +1,4 @@
+Calificación: 2.3/3
+
+Las observaciones han sido ubicadas en cada archivo.
+En el ejercicio 4, debe capturar los resultados desde la ventana watch
