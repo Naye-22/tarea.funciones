@@ -6,6 +6,7 @@
 using namespace std;
 
 
+//DOCUMENTE LA FUNCION
 void imprimirTablaMultiplicar(int numero);
 
 int main() {
